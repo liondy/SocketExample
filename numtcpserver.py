@@ -1,3 +1,5 @@
+#Ignatius Michael Liondy - 2017730007
+
 import socket
 
 satuan = ['','satu','dua','tiga','empat','lima','enam','tujuh','delapan','sembilan','sepuluh','sebelas','dua belas','tiga belas','empat belas','lima belas','enam belas','tujuh belas','delapan belas','sembilan belas']
